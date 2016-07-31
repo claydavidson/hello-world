@@ -6,6 +6,10 @@
 # Remove the parenthesis from the print statement if using version 2.x....changed the way it worked in 3.x
 #
 
+# variables do not have to be defined as int,char, string, etc....
+# They are whatever you put in them. Similar to the old Visual Basic variant type
+# Probably a good idea to document what the hell they are if not obvious.
+# Read up on core language so as not to stomp on their names...for example, is NAME a reserved word or used in soem other way??
 var1 = "World"
 var2 = "Hello "
 nl = "\n"
